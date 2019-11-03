@@ -1,0 +1,8 @@
+//859127166 //No sound on special guns
+//1854601709 //No sound on special guns
+//667288497 //theater_thearmoryexpanded12p_default
+1877540485 //SOC_default
+
+1130544539
+//1865321081 //GB Army Models
+938841227
